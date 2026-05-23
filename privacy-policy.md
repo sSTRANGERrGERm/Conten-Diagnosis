@@ -61,6 +61,4 @@ Durch die Nutzung der Anwendung stimmen Sie der Verarbeitung Ihrer Daten gemäß
 
 Wenn Sie Fragen zum Datenschutz während der Nutzung der Anwendung haben oder Fragen zu den Praktiken haben, wenden Sie sich bitte per E-Mail an firestorms8.lj@gmail.com.
 
-* * *
 
-Diese Datenschutzerklärung wurde von [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/) generiert[](https://app-privacy-policy-generator.nisrulz.com/)
